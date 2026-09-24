@@ -17,7 +17,7 @@
 
 #### Database Management
 
-<p align="left">   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />   <img src="https://skillicons.dev/icons?i=redis" title="Redis" /> </p>
+<p align="left">   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />   <img src="https://skillicons.dev/icons?i=redis" title="Redis" /> </p>
 
 #### ORM/ODM Tools
 
