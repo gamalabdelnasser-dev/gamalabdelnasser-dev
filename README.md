@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Gamal 👋
 
-<!--
-**gamalabdelnasser826-crypto/gamalabdelnasser826-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Developer focused on Node.js.
 
-Here are some ideas to get you started:
+I build backend applications and REST APIs using Node.js,
+Express.js, and MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning NestJS and TypeScript.
+
+## Technical Skills & Tools
+
+### Backend
+- Node.js
+- Express.js
+- NestJS
+
+### Programming Languages
+- JavaScript
+- TypeScript
+
+### Databases & Caching
+- MongoDB
+- Redis
+
+### Tools
+- Git
+- GitHub
+- Postman
+
+## Projects
+
+<!-- We'll add the projects here -->
+
+## Achievements
+
+<!-- We'll add your achievements here -->
+
+## Certifications
+
+<!-- We'll add your certifications here -->
+
+## Languages
+
+- Arabic — Native
+- English — [Your level]
+
+## Contact
+
+- LinkedIn: [Your LinkedIn]
