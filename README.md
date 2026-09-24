@@ -1,4 +1,4 @@
-# Backe
+# Hi, I'm Gamal 👋
 
 ### Technical Skills & Tools
 
@@ -29,4 +29,10 @@
   <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" />
   <img src="https://skillicons.dev/icons?i=sequelize" title="Sequelize" />
   <img src="https://skillicons.dev/icons?i=mongoose" title="Mongoose" />
+</p>
+#### Other Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
 </p>
