@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF5733&vCenter=true&width=600&lines=Junior+Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Node.js+%7C+Express.js+%7C+MongoDB+%F0%9F%9A%80;Building+REST+APIs+%E2%9A%99%EF%B8%8F;Currently+learning+NestJS+%26+TypeScript+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
+
 ---
 
 ### Technical Skills & Tools
