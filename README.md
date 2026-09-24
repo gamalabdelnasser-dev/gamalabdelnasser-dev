@@ -33,15 +33,15 @@
 
 <p align="left">
   <a href="https://github.com/gamalabdelnasser-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/gamal-abdelnasser-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
   </a>
   <a href="mailto:jmal52036@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" />
   </a>
   <a href="https://wa.me/201140979815" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="48" height="48" title="WhatsApp" />
   </a>
 </p>
