@@ -41,7 +41,7 @@
   <a href="mailto:jmal52036@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" />
   </a>
-  <a href="https://wa.me/201140979815" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="48" height="48" title="WhatsApp" />
-  </a>
+<a href="https://wa.me/201140979815" target="_blank">
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="48" height="48" title="WhatsApp" />
+</a>
 </p>
