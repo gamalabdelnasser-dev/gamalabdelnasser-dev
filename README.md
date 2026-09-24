@@ -1,5 +1,6 @@
-<h1 align="left"> <img src="https://img.shields.io/badge/Hi,%20I'm%20Gamal%20👋-36BCF7?style=for-the-badge&labelColor=0D1117&logoColor=white&color=36BCF7" alt="Hi, I'm Gamal" height="60" /> </h1>
-
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&color=36BCF7&vCenter=true&width=500&height=80&lines=Hi%2C+I'm+Gamal+%F0%9F%91%8B&repeat=false" alt="Hi, I'm Gamal" />
+</h1>
 <p align="left">   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=FF5733&vCenter=true&width=600&lines=Junior+Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Node.js+%7C+Express.js+%7C+MongoDB+%F0%9F%9A%80;Building+REST+APIs+%E2%9A%99%EF%B8%8F;Currently+learning+NestJS+%26+TypeScript+%F0%9F%93%9A" alt="Typing SVG" /> </p>
 
 ---
