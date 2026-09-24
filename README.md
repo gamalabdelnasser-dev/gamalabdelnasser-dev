@@ -46,4 +46,4 @@ Currently learning NestJS and TypeScript.
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: www.linkedin.com/in/gamal-abdelnasser-dev
