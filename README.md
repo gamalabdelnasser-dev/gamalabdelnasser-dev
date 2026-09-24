@@ -1,8 +1,12 @@
-# Hi, I'm Gamal 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Gamal+%F0%9F%91%8B" alt="Hi, I'm Gamal" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Node.js+%7C+Express.js+%7C+MongoDB+%F0%9F%9A%80;Building+REST+APIs+%E2%9A%99%EF%B8%8F;Currently+learning+NestJS+%26+TypeScript+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Node.js+%7C+Express.js+%7C+MongoDB+%F0%9F%9A%80;Building+REST+APIs+%E2%9A%99%EF%B8%8F;Currently+learning+NestJS+%26+TypeScript+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
