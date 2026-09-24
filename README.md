@@ -7,10 +7,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts" />
 </p>
 
-#### Front-End Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,redux" />
-</p>
 
 #### Back-End Development
 <p align="left">
