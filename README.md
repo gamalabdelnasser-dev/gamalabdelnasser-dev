@@ -10,17 +10,6 @@
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
 </p>
 
-#### Front-End Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=sass" title="Sass" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
-</p>
-
 #### Back-End Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
