@@ -4,20 +4,38 @@
 
 #### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+</p>
+
+#### Front-End Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=sass" title="Sass" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
 </p>
 
 #### Back-End Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />
 </p>
 
 #### Database Management
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
 </p>
 
 #### ORM/ODM Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=prisma,sequelize" />
+  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" />
+  <img src="https://skillicons.dev/icons?i=sequelize" title="Sequelize" />
 </p>
