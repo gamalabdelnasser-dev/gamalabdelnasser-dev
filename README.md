@@ -4,7 +4,7 @@
 
 #### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,matlab" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts" />
 </p>
 
 #### Front-End Development
