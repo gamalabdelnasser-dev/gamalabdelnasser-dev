@@ -1,6 +1,7 @@
-# Hi, I'm Gamal 👋
+👋 Hi, I'm Gamal
+Junior Backend Developer | Node.js | NestJS | TypeScript
 
-Junior Backend Developer focused on Node.js.
+
 
 I build backend applications and REST APIs using Node.js,
 Express.js, and MongoDB.
