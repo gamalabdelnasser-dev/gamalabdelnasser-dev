@@ -21,10 +21,13 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
 </p>
 
 #### ORM/ODM Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" />
   <img src="https://skillicons.dev/icons?i=sequelize" title="Sequelize" />
+  <img src="https://skillicons.dev/icons?i=mongoose" title="Mongoose" />
 </p>
