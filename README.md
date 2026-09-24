@@ -3,109 +3,26 @@
 ### Technical Skills & Tools
 
 #### Programming Languages
-
-**C++**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts" />
 </p>
-
-**C#**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs" />
-</p>
-
-**JavaScript**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" />
-</p>
-
-**TypeScript**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts" />
-</p>
-
----
 
 #### Front-End Development
-
-**HTML**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,redux" />
 </p>
-
-**CSS**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=css" />
-</p>
-
-**Sass**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sass" />
-</p>
-
-**Bootstrap**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-</p>
-
-**Tailwind**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-</p>
-
-**React**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-**Redux**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=redux" />
-</p>
-
----
 
 #### Back-End Development
-
-**Node.js**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
-
-**Express**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=express" />
-</p>
-
-**NestJS**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs" />
-</p>
-
----
 
 #### Database Management
-
-**MongoDB**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
-
-**PostgreSQL**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</p>
-
----
 
 #### ORM/ODM Tools
-
-**Prisma**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=prisma" />
-</p>
-
-**Sequelize**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sequelize" />
+  <img src="https://skillicons.dev/icons?i=prisma,sequelize" />
 </p>
