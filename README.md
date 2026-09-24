@@ -1,50 +1,29 @@
-#👋 Hi, I'm Gamal
-Junior Backend Developer | Node.js | NestJS | TypeScript
+# Backe
 
+### Technical Skills & Tools
 
+#### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,c,matlab" />
+</p>
 
-I build backend applications and REST APIs using Node.js,
-Express.js, and MongoDB.
+#### Front-End Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,redux" />
+</p>
 
-Currently learning NestJS and TypeScript.
+#### Back-End Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" />
+  <!-- ملاحظة: أيقونة الـ Socket.io والـ C++ قد تحتاج بحث خاص أو صور مخصصة لأن skillicons قد لا توفرها بنفس الشكل -->
+</p>
 
-## Technical Skills & Tools
+#### Database Management
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
 
-### Backend
-- Node.js
-- Express.js
-- NestJS
-
-### Programming Languages
-- JavaScript
-- TypeScript
-
-### Databases & Caching
-- MongoDB
-- Redis
-
-### Tools
-- Git
-- GitHub
-- Postman
-
-## Projects
-
-<!-- We'll add the projects here -->
-
-## Achievements
-
-<!-- We'll add your achievements here -->
-
-## Certifications
-
-<!-- We'll add your certifications here -->
-
-## Languages
-
-- Arabic — Native
-- English — [Your level]
-
-## Contact
-
-- LinkedIn: www.linkedin.com/in/gamal-abdelnasser-dev
+#### ORM/ODM Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prisma,sequelize" />
+</p>
